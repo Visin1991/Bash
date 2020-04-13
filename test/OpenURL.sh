@@ -1,0 +1,1 @@
+start https://stackoverflow.com/questions/38147620/shell-script-to-open-a-url
